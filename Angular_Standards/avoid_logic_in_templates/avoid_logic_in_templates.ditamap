@@ -2,6 +2,6 @@
 <!DOCTYPE map
  PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
 <map>
-   <title>avoid logic in templates</title>
-   <topicref href="avoid_logic_in_templates.dita" navtitle="Avoid logic in templates"/>
+  <title>avoid logic in templates</title>
+  <topicref href="avoid_logic_in_templates.dita" navtitle="Avoid logic in templates"></topicref>
 </map>

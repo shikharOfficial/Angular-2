@@ -2,6 +2,6 @@
 <!DOCTYPE map
  PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
 <map>
-   <title> cache api calls</title>
-   <topicref href="_cache_api_calls.dita" navtitle=" Cache API calls"/>
+  <title>cache api calls</title>
+  <topicref href="_cache_api_calls.dita" navtitle=" Cache API calls"></topicref>
 </map>

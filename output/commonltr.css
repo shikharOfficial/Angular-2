@@ -77,15 +77,15 @@ body:after {
   width: 60px;
   height: 60px;
   content: "";
-  background-image: url("./Logo/Screenshot from 2024-05-22 15-29-33.png") ;
+  background-image: url("./Logo/null") ;
   background-size:contain;
   background-repeat: no-repeat;
   margin-right: 24px;
 }
 .table .tbody .row:nth-child(1),.tbody .row:nth-child(1),.row:nth-child(1){
-  background-color: #1c2028;
-  color: white;
-  font-weight: normal;
+  background-color: #00ffcc;
+  color: #ff00dd;
+  font-weight: 700;
   text-align: center;
   font-size: 18px;
 }
